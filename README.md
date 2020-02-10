@@ -12,6 +12,7 @@ E muitos outros sistemas!
 Giky pode ter bugs portando se perceber um bug basta executar: g!!reportarbug
 
 #Giky
+
 [![Discord Bots](https://top.gg/api/widget/629413362291441664.svg)](https://top.gg/bot/629413362291441664)
 
 ##🤔 Como adiciono ele ao meu servidor?
@@ -39,8 +40,10 @@ Twitter: [clique aqui](https://twitter.com/gikybot)
 ```
 
 ##Equipe
+
 Vincks - Desenvolvedor
 
 Para mais informações entre em contato atráves da nossa Comunidade do Discord: [Comunidade do Giky](https://discord.gg/aehQbAY)
 
 ---
+
