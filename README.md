@@ -11,15 +11,15 @@ E muitos outros sistemas!
 
 Giky pode ter bugs portando se perceber um bug basta executar: g!!reportarbug
 
-#Giky
+# Giky
 
 [![Discord Bots](https://top.gg/api/widget/629413362291441664.svg)](https://top.gg/bot/629413362291441664)
 
-##🤔 Como adiciono ele ao meu servidor?
+## 🤔 Como adiciono ele ao meu servidor?
 
 Se você quiser usar o Giky no seu servidor, você pode adicionar ele [clicando aqui.](https://discordapp.com/oauth2/authorize?=&client_id=629413362291441664&scope=bot&permissions=8)
 
-##💁 Suporte
+## 💁 Suporte
 
 Está com dúvidas e precisa de ajuda, quer saber porque eu estou instável, está afim de descobrir novidades minhas ou apenas quer bater um papo com outras pessoas?
 
@@ -27,7 +27,7 @@ Então entre no meu [servidor de suporte!](https://discord.gg/aehQbAY) Lá temos
 
 Seria uma honra ter você lá!
 
-##💵 Como Doar?
+## 💵 Como Doar?
 
 Utilize g!!doar
 
@@ -39,7 +39,7 @@ Twitter: [clique aqui](https://twitter.com/gikybot)
  # moderação # fortnite # utilidades # diversão # Música
 ```
 
-##Equipe
+## Equipe
 
 Vincks - Desenvolvedor
 
