@@ -4,10 +4,11 @@ O prefixo padrão é g!! para saber os comandos basta digitar: g!!ajuda
 
 Giky contém comandos de moderação, diversão, Fortnite Música e utilidades!
 
-Sistema de Scrims integrado (exclusivo para servidores de Scrims de Fortnite)
+•Sistema de Scrims integrado (exclusivo para servidores de Scrims de Fortnite)
 
-Sistema de bem vindo e saída
-E muitos outros sistemas!
+•Sistema de bem vindo e saída
+
+•E muitos outros sistemas!
 
 Giky pode ter bugs portando se perceber um bug basta executar: g!!reportarbug
 
