@@ -34,6 +34,7 @@ Utilize g!!doar
 ## Redes sociais
 
 Instagram: [clique aqui](https://www.instagram.com/gikybot/)
+
 Twitter: [clique aqui](https://twitter.com/gikybot)
 
 ## Tags
