@@ -31,10 +31,12 @@ Seria uma honra ter você lá!
 
 Utilize g!!doar
 
-##Redes sociais
+## Redes sociais
+
 Instagram: [clique aqui](https://www.instagram.com/gikybot/)
 Twitter: [clique aqui](https://twitter.com/gikybot)
-##Tags
+
+## Tags
 ```
  # moderação # fortnite # utilidades # diversão # Música
 ```
