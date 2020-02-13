@@ -40,7 +40,7 @@ Twitter: [clique aqui](https://twitter.com/gikybot)
 
 ## Tags
 ```
- # moderação # fortnite # utilidades # diversão # Música
+ # moderação # fortnite # utilidades # diversão # Música # Economia
 ```
 
 ## Equipe
